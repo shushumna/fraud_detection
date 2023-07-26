@@ -1,3 +1,10 @@
 
 print("data related to the fraud detection")
-print("processed data")
+
+a=5
+b=6
+def sum(a,b):
+c=a+b
+return c
+
+print("added  a new function sum ehich is not correct")
